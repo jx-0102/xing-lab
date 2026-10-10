@@ -1,0 +1,10 @@
+# Python 运行时留下的缓存，不用进版本库
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
